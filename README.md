@@ -3,8 +3,7 @@
 
 Pixovela is a fast, modern alternative to the default Windows image viewer. Open a photo, flip through the folder with the arrow keys, or find the shot you remember by typing something like “a vacation by the sea.”
 
-**[Download Pixovela for Windows](../../releases)**
-
+[![Download Pixovela for Windows](https://img.shields.io/badge/Download-Pixovela_for_Windows-blue?style=for-the-badge)](https://github.com/jadestudio-max/Pixovela/releases/download/v0.8/Pixovela-Setup-0.8-x64.exe)
 > The Pixovela installer is currently unsigned, so Windows may show a SmartScreen warning or block installation, depending on your settings. Download Pixovela only from this repository’s Releases page.
 
 ## Why I built Pixovela
