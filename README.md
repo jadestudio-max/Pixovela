@@ -1,4 +1,4 @@
-<img width="1280" height="640" alt="Pixovela-GitHub-Social-Preview" src="https://github.com/user-attachments/assets/c08d2f11-2d82-4b46-a83a-b8347e7cd097" />
+<img width="1280" height="640" alt="Pixovela-GitHub-Branded" src="https://github.com/user-attachments/assets/c0e8ac24-322d-4e95-9a6b-b871fc601b33" />
 # Pixovela
 
 Pixovela is a fast, modern alternative to the default Windows image viewer. Open a photo, flip through the folder with the arrow keys, or find the shot you remember by typing something like “a vacation by the sea.”
@@ -11,7 +11,7 @@ Pixovela is a fast, modern alternative to the default Windows image viewer. Open
 
 I’m a 3D artist by trade, and photography is one of my many hobbies. Like a lot of amateur photographers, I’ve ended up with thousands of JPEGs, RAW files, and videos. Whenever I sat down to go through them in the default Windows viewer, I kept running into the same problems. Colors would shift, browsing would slow down, or the viewer would glitch. All I wanted was to open a photo and keep going.
 
-Recent advances in AI gave me the confidence to try building a small, simple viewer for myself. I’m new to software development, but working with images has given me a clear idea of what I want from a viewer. Pixovela has grown since that first idea, and there’s still plenty I’d like to add. I’m proud of how far it’s come as my first app.
+Recent advances in AI gave me the confidence to try building a small, simple viewer for myself. I’m new to software development, but working with images has given me a clear idea of what I want from a viewer. Pixovela has grown since that first idea, and there’s still plenty I’d like to add. I’m excited to share Pixovela with you, and I hope you enjoy using it.
 
 — [jadestudio-max](https://github.com/jadestudio-max)
 
