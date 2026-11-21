@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="mountain-play-flat-preview" src="https://github.com/user-attachments/assets/062e8cbe-622d-457e-94be-a8bc2f9e8a1f" />
 # Pixovela
 
 Pixovela is a fast, modern alternative to the default Windows image viewer. Open a photo, flip through the folder with the arrow keys, or find the shot you remember by typing something like “a vacation by the sea.”
